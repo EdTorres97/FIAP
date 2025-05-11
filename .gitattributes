@@ -1,1 +1,1 @@
-Pós Tech Data Analytics/Fase 5/DataAnalytics - Datathon/data/**/*.json filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
